@@ -1,0 +1,10 @@
+.vs/
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+.vs/
+*.csproj
+*.sln
